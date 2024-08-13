@@ -2,7 +2,7 @@
 
 int main() {
 
-    printf("Primeiro exercicio");
+    printf("Segundo exercicio com os estudantes de ECA");
 
     return 0;
 }
